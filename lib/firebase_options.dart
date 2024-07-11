@@ -16,4 +16,4 @@ import 'package:flutter/foundation.dart'
 /// ```
 
 
-/// the code in this file is auto generate .. It can be done using firebase CLI
+/// the code in this file is auto generated.. It can be done using firebase CLI
